@@ -2,8 +2,7 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-require("expose?jQuery!jquery");
-import Boostrap from 'bootstrap';
+//require("expose?jQuery!jquery");
 
 import App from './states/App.vue'
 import Home from './states/Home.vue';
