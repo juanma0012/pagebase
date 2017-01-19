@@ -14,13 +14,18 @@ body {
 @media(min-width:768px) {
     body {
         margin-top: 50px;
+        text-align: justify;
+        text-justify: inter-word;
     }
 }
 
 #app {
     padding-left: 0;
 }
-
+.container-fluid {
+    text-align: justify;
+    text-justify: inter-word;
+}
 #page-wrapper {
     width: 100%;
     padding: 0;

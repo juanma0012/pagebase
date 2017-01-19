@@ -12,16 +12,19 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <router-link to="/" class="navbar-brand">Enterprise</router-link>
+                <router-link to="/" class="navbar-brand">INJOE, Agencia de publicidad</router-link>
             </div>
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li>
-                        <router-link to="/" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-fw fa-dashboard"></i>Home</router-link>
+                        <router-link to="/" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-fw fa-dashboard"></i>Inicio</router-link>
                     </li>
                     <li>
-                        <router-link to="/about" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-fw fa-desktop"></i>About</router-link>
+                        <router-link to="/about" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-fw fa-desktop"></i>Quienes Somos</router-link>
+                    </li>
+                    <li>
+                        <router-link to="/services" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-fw fa-desktop"></i>Servicios</router-link>
                     </li>
                 </ul>
             </div>
