@@ -6,7 +6,7 @@
             <li><a data-toggle="tab" href="#menu1">Páginas web</a></li>
             <li><a data-toggle="tab" href="#menu2">Material P.O.P.</a></li>
             <li><a data-toggle="tab" href="#menu3">Publicidad en FLD</a></li>
-            <li><a data-toggle="tab" href="#menu4">Servicio de STAN</a></li>
+            <li><a data-toggle="tab" href="#menu4">Servicio de STAND</a></li>
             <li><a data-toggle="tab" href="#menu5">Email Marketing</a></li>
         </ul>
 

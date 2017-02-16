@@ -8,6 +8,7 @@ import App from './states/App.vue'
 import Home from './states/Home.vue';
 import About from './states/About.vue';
 import Services from './states/Services.vue';
+import Contact from './states/Contact.vue';
 import './assets/css/style.css';
 Vue.use(VueRouter);
 
@@ -15,7 +16,8 @@ const router = new VueRouter({
 	routes: [
         { path: '/',  component: Home},
         { path: '/about', component: About},
-        { path: '/services', component: Services}
+        { path: '/services', component: Services},
+        { path: '/contact', component: Contact}
   ]
 });
 

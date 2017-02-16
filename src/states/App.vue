@@ -18,13 +18,16 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li>
-                        <router-link to="/" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-fw fa-dashboard"></i>Inicio</router-link>
+                        <router-link to="/" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-fw fa-home"></i>Inicio</router-link>
                     </li>
                     <li>
-                        <router-link to="/about" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-fw fa-desktop"></i>Quienes Somos</router-link>
+                        <router-link to="/about" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-fw fa-group"></i>Quienes Somos</router-link>
                     </li>
                     <li>
-                        <router-link to="/services" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-fw fa-desktop"></i>Servicios</router-link>
+                        <router-link to="/services" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-fw fa-list"></i>Servicios</router-link>
+                    </li>
+                    <li>
+                        <router-link to="/contact" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-fw fa-pencil"></i>Contacto</router-link>
                     </li>
                 </ul>
             </div>

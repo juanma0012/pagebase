@@ -3,11 +3,11 @@
         <!-- Page Heading -->
         <div class="row">
             <div class="col-lg-12">
-                <div>
-                     <img src="../assets/img/404_logo.png"  height="102" width="100">
+                <div align="center">
+                     <img src="../assets/img/logo.png" style="max-height:170px;">
                 </div>
 
-                <h1 class="page-header" align="center" >
+                <h1 class="page-header" align="center" style="margin-top:0px;">
                     INJOE
                     <small>AGENCIA DE PUBLICIDAD</small>
                 </h1>
